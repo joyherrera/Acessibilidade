@@ -1,0 +1,24 @@
+Aula- 13 ACESSIBILIDADE
+
+Classificação A11Y
+
+A propriedade ALT dentro do cod, conseguimos colocar uma descrição de uma imagem, para uma pessoa deficiente.
+
+site brasileiro para acessibilidade: (para avaliar nossos cod, e tb aprofundar os estudos)
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0NGSGU0QTYxMXhMemJ1dDJETFQ4RVNMWGpnQXxBQ3Jtc0tuWDBZUHR2aWk0ejJKVjJ5dG5jdk1XWXJwREhBaEp5dEFqZUhwa050SFNqM3FaYUNNTzNJV2I5dWZZb0k2RjhXMDgzQUxaUm5HWVhlTThFZzBYQ3UyWXNLYkZncUFxZkNDU3BFQXMyTml3bi02SHZMWQ&q=https%3A%2F%2Fasesweb.governoeletronico.gov.br%2F&v=fiKVvIv_Erc
+
+PRINCIPIO POUR
+
+possui 4 pilares na construção, para que seu site atinja os pricipios de acessibilidade.
+
+P     PERCEPTIVEL
+O    OPERÁVEL
+U    COMPREENSIVEL
+R     ROBUSTO
+
+no cod defina a linguagem do seu conteudo, no seu cod, defina em lang no hmtl;
+
+poition: sticky faz com que nosso header permaneca no topo mesmoque rolemos a pagina.
+tabidex:0, servir para quando o usuario usar a tecla tab pelo texto do site.
+
